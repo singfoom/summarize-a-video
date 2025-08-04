@@ -1,0 +1,25 @@
+{
+  "name": "summarize-a-video",
+  "version": "1.0.0",
+  "description": "A conversational application that allows users to summarize YouTube videos and chat about their contents using natural language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singfoom/summarize-a-video.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/singfoom/summarize-a-video/issues"
+  },
+  "homepage": "https://github.com/singfoom/summarize-a-video#readme",
+  "dependencies": {
+    "@genkit-ai/googleai": "^1.15.5",
+    "genkit": "^1.15.5"
+  }
+}
